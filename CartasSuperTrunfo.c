@@ -72,7 +72,7 @@ int main() {
 
 
     // Mostrar os dados da Carta 1
-    printf("\n=== Carta 1 ===\n");
+    printf("\n Carta 1 \n");
     printf("Estado: %c\n", estado1);
     printf("Código: %s\n", codigo1);
     printf("Nome da Cidade: %s\n", nomeCidade1);
@@ -82,7 +82,7 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
     // Mostrar os dados da Carta 2
-    printf("\n=== Carta 2 ===\n");
+    printf("\n Carta 2 \n");
     printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo2);
     printf("Nome da Cidade: %s\n", nomeCidade2);
